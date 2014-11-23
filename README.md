@@ -1,12 +1,12 @@
 =================Program 2 Write-up===================
 
-Name: Aaron Weaver
-Student Name: waaronl
-Student ID: 0211
-Date: 2014-10-23
-Instructor: Dr. A. T. Burrell
-Class: CS4323 Des. & Impl. of Operating Systems
-Assignment: Programming Homework 2
+* Name: Aaron Weaver
+* Student Name: waaronl
+* Student ID: 0211
+* Date: 2014-10-23
+* Instructor: Dr. A. T. Burrell
+* Class: CS4323 Des. & Impl. of Operating Systems
+* Assignment: Programming Homework 2
 
 ======================================================
 
