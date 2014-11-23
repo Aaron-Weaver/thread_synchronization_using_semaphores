@@ -33,9 +33,10 @@ on the groups.
 5. After all valves have been opened, the threads must
 end, and the process must terminate.
 
------> For a more detailed look at the program
------> see the source code and its comments.
-
+```sh
+For a more detailed look at the program
+see the source code and its comments.
+```
 ======================================================
 
 Running Instructions:
